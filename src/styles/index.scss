@@ -38,3 +38,9 @@ html body{
 span{
     cursor: pointer;
 }
+
+@media (max-width: 700px) {
+    h1{
+        font-size: 30px;
+    }
+}
